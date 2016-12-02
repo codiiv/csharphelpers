@@ -1,0 +1,2 @@
+# csharphelpers
+If you are like me, you just want to hit the ground running. You want some "basic" methods that allow you to find the baseUrl for instance. This Library is put together for C# MVC applications, but can be used potentially on others as well. It may be particularly useful for those who just started with C# / .NET and the Visual Studio world, just as I would have loved to have such methods and classes to help me when I did the switch.  This repo consists of some methods that I find useful in Application development
